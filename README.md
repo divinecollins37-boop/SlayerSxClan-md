@@ -1,23 +1,23 @@
 <div </img>
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=PRETTY-MD+ADVANCED+WHATSAPP+BOT+" alt=""></div>
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=SLAYERS-MD+ADVANCED+WHATSAPP+BOT+" alt=""></div>
 <p align="center">
   <p align="center">
-  <a href="https://github.com/superstar-zimtk/Pretty-md">
-    <img alt="pretty-md docs" height="350" src="https://res.cloudinary.com/dptzpfgtm/image/upload/v1763085792/whatsapp_uploads/qiy0ytyqcbebyacrgbju.jpg">
+  <a href="https://github.com/superstar-zimtk/slayers-md">
+    <img alt="slayers-md docs" height="350" src="https://res.cloudinary.com/dptzpfgtm/image/upload/v1763085792/whatsapp_uploads/qiy0ytyqcbebyacrgbju.jpg">
   </a>
 </p>
     
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/superstar-zimtk"><img title="Author" src="https://img.shields.io/badge/Pretty-md-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/superstar-zimtk"><img title="Author" src="https://img.shields.io/badge/slayers-md-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 
 <p align="center">
     <strong>1. FORK REPOSITORY</strong>
   <br>
-    <a href="https://github.com/superstar-zimtk/Pretty-md/fork" target="_blank">
+    <a href="https://github.com/superstar-zimtk/slayers-md/fork" target="_blank">
         <img alt="Fork Repo" src="https://img.shields.io/badge/Fork%20Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue"/>
     </a>
 </p>
